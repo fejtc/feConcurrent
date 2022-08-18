@@ -17,6 +17,7 @@ public class TestfeThread {
             ThreadC threadC = new ThreadC(myService);
             threadC.start();
         }
+        System.out.println("second add");
     }
 }
 
