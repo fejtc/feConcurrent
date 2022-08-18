@@ -19,6 +19,7 @@ public class TestfeThread {
         }
         System.out.println("second add");
         System.out.println("third add");
+        System.out.println("hot-fix add");
         System.out.println("master add");
     }
 }
