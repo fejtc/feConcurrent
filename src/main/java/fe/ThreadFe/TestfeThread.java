@@ -21,6 +21,7 @@ public class TestfeThread {
         System.out.println("third add");
         System.out.println("hot-fix add");
         System.out.println("master add");
+        System.out.println("push test");
     }
 }
 
