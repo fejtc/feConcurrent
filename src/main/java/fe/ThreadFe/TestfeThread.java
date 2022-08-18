@@ -18,6 +18,7 @@ public class TestfeThread {
             threadC.start();
         }
         System.out.println("second add");
+        System.out.println("third add");
     }
 }
 
